@@ -1,5 +1,5 @@
 def birthday_wish(srini):
-    message = "Happy birthday, " + srini + "!"
+    message = "marriage birthday, " + srini + "!"
     return message
 
 # Example usage
